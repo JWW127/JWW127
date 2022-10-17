@@ -1,7 +1,9 @@
 <div align="center">
 <img src="./images/squiggle.gif">
 <br/>
+</div>
 [![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127)
+<div align="center">
 <br/>
 <img src="./images/squiggle.gif">
 </div>
