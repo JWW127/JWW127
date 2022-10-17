@@ -1,11 +1,9 @@
-<div align="center">
-<img src="./images/squiggle.gif">
-<br/>
-</div>
 [![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127)
+
 <div align="center">
-<br/>
 <img src="./images/squiggle.gif">
+<h1> Hello I'm Joseph </h1>
+<br/>
 </div>
 
 - 🔭 I’m currently working on Typescript Projects
@@ -15,3 +13,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: twitter.com/Joseph27Dev
 - ⚡ Fun fact: I love Sci Fi
+
+<div align="center">
+<br/>
+<img src="./images/squiggle.gif">
+</div>
