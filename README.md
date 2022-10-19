@@ -16,6 +16,6 @@
 
 <div align="center">
 <br/>
-<img src="./images/squiggle.gif"><img src="./images/squiggle.gif">
+<img src="./images/squiggle.gif">
 </div>
 <!--[![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127)-->
