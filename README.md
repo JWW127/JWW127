@@ -1,10 +1,10 @@
-[![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127)
-
 <div align="center">
-<img src="./images/squiggle.gif">
-<h1> Hello I'm Joseph </h1>
-<br/>
+<img src="./images/jww127.gif">
+  <h1> Hello I'm Joseph </h1>
 </div>
+
+<br/>
+
 
 - 🔭 I’m currently working on Typescript Projects
 - 🌱 I’m currently learning Rust
@@ -16,5 +16,6 @@
 
 <div align="center">
 <br/>
-<img src="./images/squiggle.gif">
+<img src="./images/squiggle.gif"><img src="./images/squiggle.gif">
 </div>
+<!--[![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127)-->
