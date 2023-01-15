@@ -7,15 +7,13 @@
 <br/>
 
 <div align="center">
-🔭 I’m currently working on Typescript Projects
-🌱 I’m currently learning Rust
-👯 I’m looking to collaborate on Everything
-🤔 I’m looking for help with Life
-💬 Ask me about anything
-📫 How to reach me: twitter.com/Joseph27Dev
-⚡ Fun fact: I love Sci Fi
+🔭 I’m currently working on Typescript || Rust Projects <br/>
+⚡ Fun fact: I love Sci Fi <br/>
+💬 Contact me about anything <br/>
+🖥️ My Site: <a href="https://joseph27.dev">Portfolio</a> <br/>
+📫 @me: <a href="https://twitter.com/joseph27dev">Twitter</a> <br/>
+🎮 @Discord: joseph27dev#0782 <br/>
 </div>
-
 <div align="center">
 <br/>
 <img src="./images/squiggle.gif">
