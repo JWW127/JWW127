@@ -12,7 +12,7 @@
 💬 Contact me about anything <br/>
 🖥️ My Site: <a href="https://joseph27.dev">Portfolio</a> <br/>
 📫 @me: <a href="https://twitter.com/joseph27dev">Twitter</a> <br/>
-🎮 @Discord: joseph27dev#0782 <br/>
+🎮 Chat: <a href="https://discordapp.com/users/967505978318807141">Discord</a> <br/>
 </div>
 <div align="center">
 <br/>
