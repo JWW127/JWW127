@@ -1,7 +1,6 @@
 [![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127)
  <div align="center">
 <!-- <img src="./images/jww127.gif"> -->
-  <h2> Hello I'm Joseph </h2>
 </div>
 
 <br/>
@@ -10,6 +9,8 @@
 </div>
 <br/>
  <div align="center">
+ <h3> Hello I'm Joseph </h3>
+ <br/>
  Rust and Typescript developer with a love for science fiction. <br/>
  Constantly exploring and creating new projects. <br/>
  <br/>
