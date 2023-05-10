@@ -1,6 +1,8 @@
-[![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127)
+<!-- [![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127) -->
+
  <div align="center">
-<!-- <img src="./images/jww127.gif"> -->
+<img src="https://res.cloudinary.com/dpc3zrcvs/image/upload/v1683723888/jwwholo_sid1vd.png" alt="jww127 holopin header image"/>
+ <!-- <img src="./images/jww127.gif"> -->
 </div>
 
 <br/>
