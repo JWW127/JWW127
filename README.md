@@ -11,7 +11,7 @@
 </div>
 <br/>
  <div align="center">
- <h3> Hello I'm Joseph </h3>
+ <h3> Hello I'm Joey </h3>
  <br/>
  Rust and Typescript developer with a love for science fiction. <br/>
  Constantly exploring and creating new projects. <br/>
