@@ -18,7 +18,7 @@
  <br/>
 🖥️ My Site: <a href="https://joseph27.dev">Portfolio</a> <br/>
 📫 @me: <a href="https://twitter.com/SUPER_COOL_JOEY">Twitter</a> <br/>
-🎮 Chat: <a href="https://discordapp.com/users/967505978318807141">Discord</a> <br/>
+🎮 Chat: <a href="https://discordapp.com/users/1112861708336238623">Discord</a> <br/>
 </div>
 <br/>
 
