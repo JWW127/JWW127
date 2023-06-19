@@ -6,9 +6,11 @@
 </div>
 
 <br/>
+<!--
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jww127&show_icons=true&locale=en&theme=gruvbox" alt="jww127" /></p>
 </div>
+-->
 <br/>
  <div align="center">
  <h3> Hello I'm Joey </h3>
