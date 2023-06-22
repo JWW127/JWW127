@@ -6,6 +6,10 @@
 </div>
 
 <br/>
+
+<div align="center">
+<p><img align="left" src="/images/most-used-langs.png" alt="jww127" width="500" /></p>
+</div>
 <!--
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jww127&show_icons=true&locale=en&theme=gruvbox" alt="jww127" /></p>
