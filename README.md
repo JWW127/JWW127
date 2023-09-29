@@ -1,7 +1,6 @@
-<!-- [![@jww127's Holopin board](https://holopin.me/jww127)](https://holopin.io/@jww127) -->
-
+[![An image of @jww127's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jww127)](https://holopin.io/@jww127)
  <div align="center">
-<img src="https://res.cloudinary.com/dpc3zrcvs/image/upload/v1683723888/jwwholo_sid1vd.png" alt="jww127 holopin header image"/>
+<!-- <img src="https://res.cloudinary.com/dpc3zrcvs/image/upload/v1683723888/jwwholo_sid1vd.png" alt="jww127 holopin header image"/> -->
  <!-- <img src="./images/jww127.gif"> -->
 </div>
 
