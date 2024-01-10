@@ -6,14 +6,11 @@
 
 <br/>
 
+
+ 
 <div align="center">
-<p><img align="left" src="/images/most-used-langs.png" alt="jww127" width="500" /></p>
+![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 </div>
-<!--
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jww127&show_icons=true&locale=en&theme=gruvbox" alt="jww127" /></p>
-</div>
--->
 <br/>
  <div align="center">
  <h3> Hello I'm Joey </h3>
